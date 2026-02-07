@@ -1,6 +1,6 @@
 ---
 stepsCompleted: [1, 2, 3, 4, 5, 6]
-inputDocuments: ['/Users/derek/code/2026/hackathon/proper/brainstorming.md']
+inputDocuments: ['/Users/derek/code/2026/hackathon/proper/_bmad-output/planning-artifacts/brainstorming.md']
 date: 2026-02-06
 author: Derek
 ---

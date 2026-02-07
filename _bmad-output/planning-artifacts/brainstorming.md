@@ -1,5 +1,5 @@
 EXECUTIVE SUMMARY:
-Propper is an AI-powered audit tool that reads a Figma component via MCP and tells a designer exactly what is missing before handing off to engineering -- missing props, states, accessibility attributes, naming issues, token misalignment, and composition gaps.  MVP: Claude Skill (SKILL.md) that takes a Figma component URL and returns a structured audit report. Uses SouthLeft's bi-directional Figma MCP and DS-Knowledge MCP.
+Propper is an AI-powered audit tool that reads a Figma component via MCP and tells a designer exactly what is missing before handing off to engineering -- missing props, states, accessibility attributes, naming issues, token misalignment, and composition gaps.MVP: Claude Skill (SKILL.md) that takes a Figma component URL and returns a structured audit report. Uses SouthLeft's bi-directional Figma MCP and DS-Knowledge MCP.
 
 Stretch: Figma Plugin for broader designer adoption.
 
@@ -226,7 +226,7 @@ TIMELINE:
   SUNDAY -- SUBMIT
     Final review
     Record or prepare presentation
-    Submit     If things are not working by Saturday morning, cut in this order:
+    Submit If things are not working by Saturday morning, cut in this order:
     1. Drop all components except Button (demo one thing perfectly)
     2. Drop Check 3 (auto-update)
     3. Drop Figma Plugin from stretch to vision-only
