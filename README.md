@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="#-the-problem">The Problem</a> •
-  <a href="#-the-solution">The Solution</a> •
+  <a href="#-🛑=the-problem">The Problem</a> •
+  <a href="#-✅-the-solution">The Solution</a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-roadmap">Roadmap</a>
 </p>
@@ -20,7 +20,7 @@ Designers and developers view components through different lenses. A designer se
 Figma properties typically capture only ~40% of the context needed for production-ready code. The remaining 60%—things like `disabled` states, `loading` indicators, and `aria-labels`—is often lost in handoff, leading to:
 *   **Engineering Waste:** Developers spend cycles interpreting design intent.
 *   **Accessibility Failures:** Invisible attributes are forgotten.
-*   **Design Drift:** Implementations diverge from "Golden Master" definitions.
+*   **Design Drift:** Implementations diverge from "Golden Rules".
 
 ## ✅ The Solution: Propper
 
